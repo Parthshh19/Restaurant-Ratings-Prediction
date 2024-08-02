@@ -21,9 +21,13 @@ Context: Essential in a dynamic food industry to maintain excellence and custome
 ## Insights from Exploratory Data Analysis (EDA)
 
 Table Reservations: Restaurants with table reservations had higher median ratings.
+
 Online Ordering: Restaurants offering online ordering had slightly higher median ratings.
+
 Price and Ratings: Higher average costs for two correlated with higher ratings, indicating superior food, service, and ambiance.
+
 Restaurant Types: Casual dining and bars had the highest ratings, while quick bites had the lowest.
+
 Top Performers: Asia Kitchen by Mainland China, Flechazo, Punjab Grill, and AB's - Absolute Barbecues were top-rated; Alibi - Maya International Hotel, Bhagini, Mast Kalandar, and Bageecha were the worst.
 
 ## Proposed Machine Learning Solution
@@ -34,39 +38,54 @@ The Decision Tree Regressor was chosen for its ability to capture non-linear rel
 
 Pros:
 Captures non-linear relationships.
+
 Easy to interpret and visualize.
+
 Robust against outliers.
+
 Provides feature importance.
 
 Cons:
 Prone to overfitting.
+
 Instability with data changes.
+
 Limited predictive power for some nuances.
 
 ## Recommendations and Conclusions
 
 Enhanced Customer Experience: Personalized restaurant recommendations.
+
 Optimized Business Strategies: Tailored solutions for partner restaurants.
+
 Efficient Decision-Making: Real-time predictions for informed dining choices.
 
 ## Potential Benefits:
 
 Users: Improved dining experiences.
+
 Partner Restaurants: Optimized services and increased ratings.
+
 FoodieBay: Competitive edge through data-driven solutions.
 
 ## Implications:
 
 Data-driven decision-making.
+
 Customer-centric approach.
+
 Improved resource allocation.
+
 Integrated model in recommendation systems and consulting services.
 
 ## Further Improvements:
 
 Regular data updates.
+
 Retraining models with significant changes.
+
 Continuous customer feedback.
+
 Collaboration with restaurants to measure impact.
 
 This comprehensive approach ensures FoodieBay remains at the forefront of the restaurant aggregation industry, providing superior service and maintaining a competitive edge.
