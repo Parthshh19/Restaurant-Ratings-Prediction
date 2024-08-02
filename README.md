@@ -1,4 +1,4 @@
-# Restaurant-Ratings-Prediction
+# Restaurant Ratings Prediction Project Overview
 
 ## Executive Summary
 
