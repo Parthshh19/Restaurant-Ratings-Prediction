@@ -32,6 +32,7 @@ Captures non-linear relationships.
 Easy to interpret and visualize.
 Robust against outliers.
 Provides feature importance.
+
 Cons:
 Prone to overfitting.
 Instability with data changes.
